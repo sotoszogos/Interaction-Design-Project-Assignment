@@ -1,7 +1,7 @@
 # Lesson: Interaction Design
 
 ### First and Last Name: ZOGOPOULOS SOTIRIOS
-### University Registration Number: dpsd19040
+### University Registration Number: DPSD19040
 ### GitHub Personal Profile: https://github.com/sotoszogos
 
 # Introduction

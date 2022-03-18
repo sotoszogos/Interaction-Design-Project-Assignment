@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: ZOGOPOULOS SOTIRIOS
+### University Registration Number: dpsd19040
+### GitHub Personal Profile: https://github.com/sotoszogos
 
 # Introduction
 
